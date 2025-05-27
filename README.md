@@ -1,11 +1,11 @@
-## Sneh Yadav
-### Enrollment No: 22BECE30489
+# Sneh Yadav
+## Enrollment No: 22BECE30489
 
-#### Internship Project: Virtual Community Support
-#### Organization: TatvaSoft
-#### Duration: 15 Days
+### Internship Project: Virtual Community Support
+### Organization: TatvaSoft
+### Duration: 15 Days
 
-##### Summary of Work:
+Summary of Work:
 
 📌 PostgreSQL – Learned basics, schema setup, and query operations.
 
