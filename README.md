@@ -5,7 +5,7 @@
 ### Organization: TatvaSoft
 ### Duration: 15 Days
 
-### Summary of Work:
+#### Summary of Work:
 
 📌 PostgreSQL – Learned basics, schema setup, and query operations.
 
