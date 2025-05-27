@@ -15,7 +15,7 @@ CREATE TABLE customer (
 
 -- Insert data into customer
 INSERT INTO customer(first_name, last_name, email, created_date, updated_date, active)
-VALUES ('Kreshi', 'Viroja', 'kreshiviroja487@mail.com', now(), NULL, true);
+VALUES ('Sneh', 'Yadav', 'snehyadav091@mail.com', now(), NULL, true);
 
 -- More customer inserts
 INSERT INTO customer (first_name, last_name, email, created_date, updated_date, active) VALUES
@@ -70,9 +70,9 @@ SELECT * FROM orders;
 
 -- Update a record
 UPDATE customer
-SET first_name = 'kreshi',
-    last_name = 'viroja',
-    email = 'kreshiviroja487@mail.com'
+SET first_name = 'Sneh',
+    last_name = 'Yadav',
+    email = 'snehyadav091@mail.com'
 WHERE customer_id = 1;
 
 -- Delete a customer
