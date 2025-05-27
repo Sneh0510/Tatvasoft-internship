@@ -1,8 +1,11 @@
 SNEH YADAV
+
 ENROLLMENT_NUMBER : 22BECE30489
+
 This is the repository that contains all my works during the 15 days of Summer Intership at TATVASOFT.
 
 "Virtual Community Support"
+
 Day 1 : Introduction to PostgreSQL
 • Learn basics of SQL, set up PostgreSQL database, and Database Schema CI platform.
 • Hands-on: Able to create, insert, Update, Delete and sub-query data in PostgreSQL.
