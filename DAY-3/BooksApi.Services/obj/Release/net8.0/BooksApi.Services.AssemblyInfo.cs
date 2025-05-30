@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BooksApi.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebf6dc006abd43caf6e08f6001c7918a44118532")]
 [assembly: System.Reflection.AssemblyProductAttribute("BooksApi.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BooksApi.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
