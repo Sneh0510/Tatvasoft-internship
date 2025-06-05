@@ -1,0 +1,17 @@
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\bin\Debug\net8.0\BooksApi.Services.deps.json
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\bin\Debug\net8.0\BooksApi.Services.dll
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\bin\Debug\net8.0\BooksApi.Services.pdb
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\bin\Debug\net8.0\BooksApi.Entities.dll
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\bin\Debug\net8.0\BooksApi.Repository.dll
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\bin\Debug\net8.0\BooksApi.Entities.pdb
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\bin\Debug\net8.0\BooksApi.Repository.pdb
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.csproj.AssemblyReference.cache
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.AssemblyInfoInputs.cache
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.AssemblyInfo.cs
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\obj\Debug\net8.0\BooksApi.5EA205C6.Up2Date
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.dll
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\obj\Debug\net8.0\refint\BooksApi.Services.dll
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\obj\Debug\net8.0\BooksApi.Services.pdb
+C:\Users\snehy\OneDrive\Desktop\day-7\BooksApi.Services\obj\Debug\net8.0\ref\BooksApi.Services.dll
